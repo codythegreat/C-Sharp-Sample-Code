@@ -1,2 +1,2 @@
 # C Sharp Sample Code
- Sample Code for C#
+ Feel free to look over this sample code. 
